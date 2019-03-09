@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
 //React Fragment and this.setState() is asynchronous
-//Functional this.setState()
 
 class Counter extends Component {
   state = {
